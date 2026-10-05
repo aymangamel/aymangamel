@@ -85,7 +85,7 @@ Android project created for the Swalif ecosystem.
 
 ## 🌐 Browser Extensions & Web Tools
 
-### NotebookLM Slide to MP4
+### [NotebookLM Slide to MP4](https://m7tawa.com/%D8%A7%D8%B6%D8%A7%D9%81%D8%A9-%D9%85%D8%AA%D8%B5%D9%81%D8%AD-%D9%83%D8%B1%D9%88%D9%85-notebooklm-slide-to-mp4.html)
 
 A Chrome extension that captures NotebookLM slides in sequence and creates an MP4 video locally.
 
@@ -95,13 +95,15 @@ A Chrome extension that captures NotebookLM slides in sequence and creates an MP
 
 ### ImageLite – Image Converter
 
-A lightweight image conversion tool for modern browser workflows, including Chrome and Firefox.
+A lightweight image conversion tool for modern browser workflows, available for both Chrome and Firefox.
+
+[Chrome Web Store](https://chromewebstore.google.com/detail/imagelite-%E2%80%93-image-format/bokmhmndeahjbbkmnejcbloohloamhoo) • [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/imagelite-image-converter/)
 
 `Chrome` `Firefox` `WebP` `AVIF` `Image Processing`
 
 ---
 
-### Local Video Trimmer
+### [Local Video Trimmer](https://www.m7tawa.com/tools/local-video-trimmer/)
 
 A browser-based video trimming tool designed to process video locally without uploading files to an external server.
 
